@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratik
-- Student, IIIT Surat
+- 👨🏻‍🎓 Student, IIIT Surat
 - 👀 I’m interested in developing automobile dealership platform! Ping Me.
 - 💞️ I’m looking for collaborate with Full-Stack Application developer.
 - 📫 Reach me out throught pratikcyber10@gmail.com or <a href="pratikbagale.com">pratikbagale.com</a>
