@@ -3,7 +3,7 @@
 - 👀 I’m interested in developing automobile dealership platform! Ping Me.
 - 💞️ I’m looking for collaborate with Full-Stack Website Developer.
 - 📫 Reach me out throught pratikcyber10@gmail.com or <a href="pratikbagale.com">pratikbagale.com</a>
- 
+
 **Social Media Account:**
 - Instagram: www.instagram.com/a.4.p.r.a.t.i.k.r.4
 - Facebook: www.facebook.com/pratik.bagale.3
