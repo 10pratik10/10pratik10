@@ -9,7 +9,7 @@
 - Facebook: www.facebook.com/pratik.bagale.3
 - LinkedIn: www.linkedin.com/in/pratik-bagale-00767215a/
 - Twitter: www.twitter.com/pratik930
-- Quora: www.quora.com/profile/Pratik-Bagale-2
+- Quora: https://www.quora.com/profile/Pratik-Bagale-9
 - StackOverFlow: www.stackoverflow.com/users/12837205/pratik-bagale
 - FS6: www.f6s.com/pratik-bagale
 
