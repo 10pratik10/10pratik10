@@ -2,7 +2,7 @@
 
 # PRATIK TANZ
 
-### `SERIAL ENTREPRENEUR • DIGITAL ARCHITECT • PRODUCER`
+### `DIGITAL ARCHITECT • PRODUCER`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=CEO+%40+TANZ+CORP+%7C+BUILDING+THE+FUTURE;CTO+%40+DENTORX+%7C+DISRUPTING+HEALTHCARE;IIIT+DROPOUT+%7C+STARTUP+FOUNDER;CODING+REALITY+%7C+ONE+ALGORITHM+AT+A+TIME" alt="Cyberpunk Typing" />
 
@@ -25,8 +25,8 @@
 class PratikTanz extends Entrepreneur {
   constructor() {
     super();
-    this.roles = ["CEO @ Tanz Corp", "CTO @ DentoRx"];
-    this.background = "IIIT.dropout() → startup.founder()";
+    this.roles = ["Freelancer @ Tanz Corp"];
+    this.background = "IIIT.dropout() → Freelancer()";
     this.specialties = ["Tech Innovation", "Digital Disruption", "Audio Production"];
     this.currentMission = "Building tomorrow's solutions today";
     this.philosophy = "Code.reality() && scale.infinite()";
@@ -63,17 +63,6 @@ impact: Enterprise disruption
 
 </td>
 <td width="50%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border: 2px solid #FFD700; border-radius: 10px; padding: 20px;">
-
-### 🦷 DENTORX  
-**`CTO`** • `2024.present`
-
-```yaml
-status: REVOLUTIONIZING
-mission: Healthcare technology advancement
-focus: Dental care innovation
-stack: AI/ML + Cloud infrastructure
-impact: Medical industry disruption
-```
 
 </td>
 </tr>
