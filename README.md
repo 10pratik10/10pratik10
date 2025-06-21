@@ -4,7 +4,7 @@
 
 ### `DIGITAL ARCHITECT • PRODUCER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Freelancer+%40+TANZ+CORP+%7C+BUILDING+THE+FUTURE;IIIT+DROPOUT+%7C+STARTUP+FOUNDER;CODING+REALITY+%7C+ONE+ALGORITHM+AT+A+TIME" alt="Cyberpunk Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Freelancer+%40+TANZ+CORP+%7C+BUILDING+THE+FUTURE;IIIT+DROPOUT+%7C+FREELANCER;CODING+REALITY+%7C+ONE+ALGORITHM+AT+A+TIME" alt="Cyberpunk Typing" />
 
 <br/>
 
