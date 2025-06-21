@@ -4,7 +4,7 @@
 
 ### `DIGITAL ARCHITECT • PRODUCER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=CEO+%40+TANZ+CORP+%7C+BUILDING+THE+FUTURE;CTO+%40+DENTORX+%7C+DISRUPTING+HEALTHCARE;IIIT+DROPOUT+%7C+STARTUP+FOUNDER;CODING+REALITY+%7C+ONE+ALGORITHM+AT+A+TIME" alt="Cyberpunk Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Freelancer+%40+TANZ+CORP+%7C+BUILDING+THE+FUTURE;IIIT+DROPOUT+%7C+STARTUP+FOUNDER;CODING+REALITY+%7C+ONE+ALGORITHM+AT+A+TIME" alt="Cyberpunk Typing" />
 
 <br/>
 
@@ -51,7 +51,7 @@ class PratikTanz extends Entrepreneur {
 <td width="50%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border: 2px solid #FFD700; border-radius: 10px; padding: 20px;">
 
 ### ⚡ TANZ CORP
-**`CEO`** • `2021.present`
+**`Freelancer`** • `2021.present`
 
 ```yaml
 status: ACTIVE
